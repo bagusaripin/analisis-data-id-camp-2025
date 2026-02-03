@@ -5,26 +5,12 @@
 
 # Struktur Folder
 📁 submission
- ├── 📁 dashboard
- │    ├── dashboard.py
- │    ├── all_data_lite.csv        
- │    ├── rfm_analysis.csv
- │    └── geolocation_analysis.csv
- ├── 📁Data
- │    ├── customer_dataset.csv 
- │    ├── order_items.csv 
- │    ├── order_payments_dataset.csv
- │    ├── order_reviews_dataset.csv
- │    ├── order_dataset.csv
- │    ├── product_dataset.csv
- │    ├── seller_dataset.csv
- │    ├── geolocation_dataset.csv
- │    ├── product_category_name_translation.csv
- │    └── orders_clean.csv          #Output Data Orders yang sudah dibersihkan
- ├── requirements.txt    
- ├── url.txt       
- ├── notebook.ipynb             
- └── README.md
+ 1. 📁 dashboard -> (dashboard.py, all_data_lite.csv, rfm_analysis.csv, geolocation_analysis.csv)
+ 2. 📁Data -> (customer_dataset.csv, order_items.csv, order_payments_dataset.csv, order_reviews_dataset.csv, order_dataset.csv, product_dataset.csv, seller_dataset.csv, geolocation_dataset.csv, product_category_name_translation.csv, orders_clean.csv  (*#Output Data Orders yang sudah dibersihkan))
+3. requirements.txt
+4. url.txt
+5. notebook.ipynb
+6. README.md
 
 ## 🛠️ Cara Menjalankan Dashboard Di Lokal & Tautan
 untuk tautan bisa cek url.txt atau klik ini https://bagus-data-analytics-id-camp-2025.streamlit.app/
